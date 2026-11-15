@@ -1,0 +1,14 @@
+; Engine configuration file. Edit through the Godot editor where possible.
+config_version=5
+
+[application]
+
+config/name="Demo Game"
+config/features=PackedStringArray("4.4")
+
+[layer_names]
+
+3d_physics/layer_1="world"
+3d_physics/layer_2="player"
+3d_physics/layer_3="npc"
+3d_navigation/layer_1="walkable"
