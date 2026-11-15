@@ -1,0 +1,8 @@
+# MCP servers and add-on sources are fetched by tools/setup-mcp.sh
+tools/mcp-servers/
+
+# Godot
+game/.godot/
+game/addons/beehave/
+*.import
+*.blend1
